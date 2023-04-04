@@ -341,7 +341,7 @@ a{
 .service_details {
     padding: 40px 20px;
     background: #fff;
-    height: 310px;
+    height: 300px;
     width: 100%;
 	margin-top: 20px;
     color: #0E1133;
@@ -419,6 +419,9 @@ footer a:hover{
 	.intro{
 		margin-top:10px;
 	}
+	.service_details {
+    height: 325px;
+}
 }
 #btn-back-to-top {
 	position: fixed;
